@@ -15,5 +15,8 @@ Week 1
 Buscema and Lee, *How to Draw Comics the Marvel Way* 
 Chs. 2 & 3 
 
-Use this  [Photoshop Tutorial](https://helpx.adobe.com/photoshop/using/masking-layers.html)
+Use this  [Photoshop Tutorial](https://helpx.adobe.com/photoshop/using/masking-layers.html) to get started.  
+
+Week 2  
+Abel and Madden, *Drawing Words & Writing Pictures*, Ch.1 “Can’t Draw? Read This.”
 
