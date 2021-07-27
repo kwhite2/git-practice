@@ -1,6 +1,6 @@
 # Comics and Graphic Novels Digital Humanities Lab
 
-## Course Informatoin
+## Course Information
 **Instrucor:** Krista White  
 **Course Number:** 21:350:229:01  
 **Course Term:** Fall 2021  
