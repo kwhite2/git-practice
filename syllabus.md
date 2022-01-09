@@ -1,5 +1,5 @@
 # Comics and Graphic Novels Digital Humanities Lab
-
+## Hill Hall 440
 ## Course Information
 **Instrucor:** Krista White  
 **Course Number:** 21:350:229:01  
