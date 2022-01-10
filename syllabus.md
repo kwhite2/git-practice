@@ -20,3 +20,9 @@ Use this  [Photoshop Tutorial](https://helpx.adobe.com/photoshop/using/masking-l
 Week 2  
 Abel and Madden, *Drawing Words & Writing Pictures*, Ch.1 “Can’t Draw? Read This.”
 
+Bulleted list looks like this:
+- item one
+- item two
+- item three
+
+
