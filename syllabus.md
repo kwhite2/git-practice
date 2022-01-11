@@ -28,5 +28,6 @@ Bulleted list looks like this:
 
 Adding stuff for the workshop.
 
+[Journal Article Link](Lakkala PedagogicalInfrastructure.pdf)
 
 
