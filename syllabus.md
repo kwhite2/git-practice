@@ -28,6 +28,7 @@ Bulleted list looks like this:
 
 Adding stuff for the workshop.
 
-[Journal Article Link](Lakkala PedagogicalInfrastructure.pdf)
+[Journal Article Link](https://github.com/kwhite2/git-practice/blob/e4f1f5c68814101573eb3c7c0fac7d776fa960c0/Lakkala%20PedagogicalInfrastructure.pdf)
+
 
 
